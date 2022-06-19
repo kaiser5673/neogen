@@ -1,0 +1,4 @@
+key
+amino link
+mode (0 for 200 accounts, 1 for 50 accounts)
+auto update (0 for on, 1 for off (0 pra ligado, 0 pra desligado))
